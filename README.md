@@ -7,11 +7,14 @@ A game written in Clojure
 None yet
 
 ## Usage
+Use the following command to compile "supersix", where [args] are user-defined arguments (more on that in a different version)
+
     $ java -jar supersix-0.1.0-standalone.jar [args]
 
 ## Options
 
-nothing... yet
+Arguments:
+
 
 ## Examples
 

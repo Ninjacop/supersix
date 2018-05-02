@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file. This change
 ### Changed
 - nothing... yet
 
-## [0.1.1] - 2018-05-01
+## [0.1.0] - 2018-05-01
 ### Changed
 - Documentation on things
 
@@ -18,6 +18,3 @@ All notable changes to this project will be documented in this file. This change
 ## 0.1.0 - 2018-05-01
 ### Added
 - First Version (nothing here) :p
-
-[Unreleased]: https://github.com/your-name/supersix/compare/0.1.1...HEAD
-[0.1.1]: https://github.com/your-name/supersix/compare/0.1.0...0.1.1
